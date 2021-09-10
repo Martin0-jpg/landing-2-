@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/coontainer.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: Lora, serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: darkred;
+	color: white;
+}
+
+h1,h2,h3 {
+	font-family: Roboto, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1, h2, p {
+	color: darkturquoise;
+}
